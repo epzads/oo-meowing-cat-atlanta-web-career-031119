@@ -5,7 +5,7 @@ class Cat
 
 attr-accessor : name 
 
-
+end 
 
   
   
