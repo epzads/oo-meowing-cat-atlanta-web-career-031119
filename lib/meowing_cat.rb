@@ -3,7 +3,7 @@
 
 class Cat 
 
-attr-accessor:name 
+attr_accessor:name 
 
 end 
 
